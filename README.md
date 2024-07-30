@@ -1,6 +1,6 @@
 # Reeva Empire LLC Data Analyst/Engineering Internship Task
 
-![Reeva Empire LLC Logo](media/image1.png)
+![Quntum Analytica Tech Ventures Logo](https://photos.app.goo.gl/BD3KgRYcjEEP5A7x7)
 
 ## Task Overview
 
