@@ -1,7 +1,8 @@
 # Reeva Empire LLC Data Analyst/Engineering Internship Task
 
-![Quntum Analytica Tech Ventures Logo](media/qa.png)
-
+<p align="center">
+  <img src="media/qa.png" alt="Quantum Analytica Tech Ventures Logo">
+</p>
 ## Task Overview
 
 This internship task is designed to assess your analytical skills, data visualization capabilities, and optionally, your machine learning proficiency. You will be working with a real estate projects dataset to perform various analyses and create meaningful insights.
