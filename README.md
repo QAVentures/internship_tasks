@@ -16,8 +16,8 @@ Analyze the provided real estate dataset, create meaningful metrics, visualize t
 
 ### Data Sources
 
-- Dataset: [Real Estate Projects Data](https://docs.google.com/spreadsheets/d/19ERmYmnH8u56JvqG36NokCCw9y3mSUvlib_236f_dck/edit?usp=sharing)
-- Data Dictionary: [Data Dictionary](https://docs.google.com/document/d/1orfylwnEuuyAurjZWJjXl92MLVgPPOMMPBGGlIfTixY/edit?usp=sharing)
+- Dataset: [Real Estate Projects Data](data/Tasl-1.xlsx)
+- Data Dictionary: [Data Dictionary](data/Data Dictionary.pdf)
 
 ### Task Components
 
@@ -58,8 +58,8 @@ Analyze the provided real estate dataset, create meaningful metrics, visualize t
 
 ### Data Sources
 
-- Database Schema: [Schema Diagram](https://photos.app.goo.gl/QmKomh7Y98F6HN1A6)
-- Data: [Sample Data](https://docs.google.com/spreadsheets/d/1qQafwKK3xFAFKnVPxM0DNFdhMPi5SBfKn7Q1Kf9cE6U/edit?usp=sharing)
+- Database Schema: [Schema Diagram](media/schema.png)
+- Data: [Sample Data](data/Task-2.xlsx)
 
 ### Instructions
 
