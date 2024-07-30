@@ -16,7 +16,7 @@ Analyze the provided real estate dataset, create meaningful metrics, visualize t
 
 ### Data Sources
 
-- Dataset: [Real Estate Projects Data](data/Task-1.xlsx)
+- Dataset: [Real Estate Projects Data](data/Task-1/)
 - Data Dictionary: [Data Dictionary](data/Data%20Dictionary.pdf)
 
 Please review all sheets in the data files properly.
@@ -60,7 +60,7 @@ Please review all sheets in the data files properly.
 ### Data Sources
 
 - Database Schema: [Schema Diagram](media/schema.png)
-- Data: [Sample Data](data/Task-2.xlsx)
+- Data: [Sample Data](data/Task-2/)
 
 ### Instructions
 
