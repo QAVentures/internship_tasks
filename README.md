@@ -16,8 +16,8 @@ Analyze the provided real estate dataset, create meaningful metrics, visualize t
 
 ### Data Sources
 
-- Dataset: [Real Estate Projects Data](data/Tasl-1.xlsx)
-- Data Dictionary: [Data Dictionary](data/Data Dictionary.pdf)
+- Dataset: [Real Estate Projects Data](data/Task-1.xlsx)
+- Data Dictionary: [Data Dictionary](data/Data%20Dictionary.pdf)
 
 ### Task Components
 
