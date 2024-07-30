@@ -19,6 +19,7 @@ Analyze the provided real estate dataset, create meaningful metrics, visualize t
 - Dataset: [Real Estate Projects Data](data/Task-1.xlsx)
 - Data Dictionary: [Data Dictionary](data/Data%20Dictionary.pdf)
 
+Please review all sheets in the data files properly.
 ### Task Components
 
 1. **Data Analysis and Metric Creation**
